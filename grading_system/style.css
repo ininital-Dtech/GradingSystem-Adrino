@@ -1,0 +1,35 @@
+body{
+    background-color: aqua;
+    margin: 0 auto;
+    font-size: 30px;
+    
+   
+}
+.container{
+    margin: 20px auto;
+    display: block;
+    width: 500px;
+    height: 500px;
+   
+
+}
+.label{
+    font-size: 25px;
+    background-color: aquamarine;
+    margin: 0 auto;
+}
+.grade{
+    width: max-content;
+    margin: 0 auto;
+    font-size: 25px;
+}
+.btn{
+    font-size: 30px;
+}
+.forms{
+    color: yellowgreen;
+    background-color: blue;
+    border-radius: 5px;
+    font-size: 30px;
+    width: 350px;
+}
